@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:tgenovese/pcl_msgs-release.git
 tracks:
   dashing:
     actions:

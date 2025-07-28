@@ -1,3 +1,26 @@
+## pcl_msgs (jazzy) - 1.0.0-10
+
+The packages in the `pcl_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/pcl_msgs-release.git pcl_msgs` on `Mon, 28 Jul 2025 14:31:51 -0000`
+
+The `pcl_msgs` package was released.
+
+Version of package(s) in repository `pcl_msgs`:
+
+- upstream repository: https://github.com/ros-perception/pcl_msgs
+- release repository: https://github.com/tgenovese/pcl_msgs-release.git
+- rosdistro version: `1.0.0-9`
+- old version: `1.0.0-9`
+- new version: `1.0.0-10`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## pcl_msgs (rolling) - 1.0.0-5
 
 The packages in the `pcl_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling pcl_msgs` on `Fri, 26 Mar 2021 12:29:39 -0000`
